@@ -6,6 +6,7 @@ function ProductCard({name,price}) {
     <div className="product-style" >
         <h1 >{name}</h1>
         <h2>{price}</h2>
+        end
     </div>
   )
 }
